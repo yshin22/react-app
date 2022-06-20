@@ -18,3 +18,7 @@ nav a {
 .main {
   padding: 1rem;
 }
+
+nav a.active {
+  background-color: #eee;
+}
